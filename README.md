@@ -1,2 +1,2 @@
-# PlayStation.html
-Site simulando paginá de compra online, site projetado em Html  e Css.
+# PlayStation
+Site simulando pagina de compra online, site projetado em Html  e Css.
